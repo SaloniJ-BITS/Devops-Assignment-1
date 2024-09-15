@@ -1,0 +1,7 @@
+Hello,
+
+This is my Devops Assignment 1 
+This assignement has git operations.
+
+Thanks,
+Saloni Jain
